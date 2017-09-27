@@ -9,4 +9,4 @@
 ## API Reference
 [美麗C世界]("http://dhcp.tcgs.tc.edu.tw/c/index.htm")
 ## Contributor
-[EricLin252 @ GitHub]("https://github.com/EricLin252")
+[Eric, Lin 252 @ GitHub]("https://github.com/EricLin252")
