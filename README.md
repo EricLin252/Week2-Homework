@@ -7,6 +7,6 @@
     5. Use ASCII Code to display "nctu"
     6. Whether the input number is odd or even.
 ## API Reference
-[美麗C世界]("http://dhcp.tcgs.tc.edu.tw/c/index.htm")
+[美麗C世界](http://dhcp.tcgs.tc.edu.tw/c/index.htm)
 ## Contributor
-[Eric, Lin 252 @ GitHub]("https://github.com/EricLin252")
+[EricLin252 @ GitHub](https://github.com/EricLin252)
