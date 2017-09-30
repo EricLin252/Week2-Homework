@@ -3,10 +3,10 @@
 
 int main()
 {
-    char a[100];
+    double a;
 
     printf("Your input number: ");
-    scanf("%s", a);
-    printf("%s", a);
+    scanf("%lf", &a);
+    printf("%.2lf", a);
     return 0;
 }
