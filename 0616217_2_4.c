@@ -3,12 +3,10 @@
 
 int main()
 {
-    int a, b;
+    char a[100];
 
-    scanf("%d %d", &a, &b);
-    printf("The sum of the given numbers : %d\n", a+b);
-    printf("The difference of the given numbers : %d\n", a-b);
-    printf("The product of the given numbers : %d\n", a*b);
-    printf("The quotient of the given numbers : %f\n", (float)a/(float)b);
+    printf("Your input number: ");
+    scanf("%s", a);
+    printf("%s", a);
     return 0;
 }
